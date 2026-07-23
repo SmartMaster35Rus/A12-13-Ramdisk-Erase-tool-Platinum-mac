@@ -33,7 +33,7 @@
 
 | Чип | Модели |
 |-----|--------|
-| **A12** | iPhone XR, XS, XS Max, iPad mini 5, iPad Air 3, iPad 8, iPad Pro 11" (2018), iPad Pro 12.9" (2018) |
+| **A12** | iPhone XR, XS, XS Max, iPad mini 5, iPad Air 3, iPad 8 |
 | **A13** | iPhone 11, 11 Pro, 11 Pro Max, SE (2nd gen), iPad 9 |
 
 - На даннй момемт поддерживается сброс / и устройства на пароле или отключено / Hello bypass со сменой SN в процессе разработки
